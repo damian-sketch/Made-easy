@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css?family=Natanael+Gama&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Courgette&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Merienda+One&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Bangers&display=swap');
+
+.topbar h1{
+  font-family: "Merienda One", sans-serif;
+  font-size: 1.2em;
+  color: rgb(4, 4, 107);
+}
+
+.topbar{
+  background-color:rgb(206, 175, 2);
+  padding: 10px;
+  color: rgb(4, 4, 107);
+}
+
+
+.topbar i {
+  color: rgb(4, 4, 107);
+  margin-left:120px;
+}
+
+.navbar{
+  background-color: rgb(2, 2, 56);
+  height: 70px;
+  
+}
+
+.navbar a{
+  color: white;
+}
+
+.navbar a:hover{
+  
+  color: #ffa500;
+  text-decoration: none;
+}
+
+
+.dropdown{
+  visibility:hidden;
+  transition: all 0.5s ease;
+  display:none;
+  margin-left: 420px;
+  position:absolute;
+}
+.insurances{
+  position:relative;
+}
+a:hover .dropdown{
+  display: block;
+  visibility: visible;
+}
