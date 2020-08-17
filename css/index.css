@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Merienda+One&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Bangers&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Courgette&display=swap');
 
 .topbar h1{
   font-family: "Merienda One", sans-serif;
@@ -50,7 +51,24 @@ a:hover .dropdown{
   visibility: visible;
 }
 
+#icons{
+ 
+  margin-left: 122px;
+  margin-top: -40px;
+}
 
+#logo{
+ 
+  width:170px;
+}
+
+#logo img{
+  margin-left: 20px;
+}
+
+#logo p{
+  font-family:"Courgette", Arial, Helvetica, sans-serif;
+}
 .text h1{
   color: white;
 }

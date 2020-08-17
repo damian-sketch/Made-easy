@@ -28,6 +28,11 @@
   
 }
 
+#icons{
+ 
+  margin-left: 122px;
+  margin-top: -40px;
+}
 
 .topbar i {
   color: rgb(4, 4, 107);
@@ -80,6 +85,19 @@ a:hover .dropdown{
 .aboutus p{
   font-family:"Courgette", Arial, Helvetica, sans-serif;
   font-size: 1.1em;
+}
+
+#logo{
+ 
+  width:170px;
+}
+
+#logo img{
+  margin-left: 20px;
+}
+
+#logo p{
+  font-family:"Courgette", Arial, Helvetica, sans-serif;
 }
 
 .mission{
