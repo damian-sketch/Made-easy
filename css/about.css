@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Natanael+Gama&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Courgette&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Merienda+One&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Alata&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Bangers&display=swap');
 
 .topbar h1{
@@ -156,4 +156,24 @@ a:hover .dropdown{
   
   }
 
- 
+ #coreValues{
+   margin-top: 170px;
+   padding: 10px;
+   margin-left: 40px;
+
+ }
+
+ #coreValues h1{
+  color:rgb(0, 65, 139);
+  font-family:"Bangers";
+ }
+
+ #coreValues h2{
+   font-family:"Alata";
+
+ }
+ #coreValues li{
+  font-family:"Courgette", Arial, Helvetica, sans-serif;
+  font-size: 1.1em;
+  font-weight: bold;
+ }
