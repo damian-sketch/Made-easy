@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Natanael+Gama&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Courgette&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Merienda+One&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Bangers&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Alata&display=swap');
 
 .topbar h1{
   font-family: "Merienda One", sans-serif;
@@ -57,49 +57,12 @@
   margin-top: -40px;
 }
 
-#personalinsurances h1{
-  text-align: center;
- 
-  font-family: "Bangers";
- }
-
-
-
-#personalinsurances img{
-  margin-left: 50px;
-}
-
-.images2{
-  float:left;
-  text-align: center;
-  
-  width: 400px;
-  margin-left: 20px;
-  margin-top: 20px;
-  padding: 10px;
-  
-}
-
-.images2:hover{
-  box-shadow: 5px 5px 26px rgb(3, 3, 59);
-}
-
-p{
-  font-family:"Courgette", Arial, Helvetica, sans-serif;
-  font-size: large;
-  color: black;
-}
-
-h2{
-  font-family: "Natanael Gama" , Arial, Helvetica, sans-serif;
-  color: rgb(221, 200, 9);
-}
 
 
 .footer{
   
   left: 0 ;
-  margin-top: 1070px;
+  margin-top: 270px;
   bottom: 0;
   width: 100%;
   height: 160px;
@@ -115,3 +78,35 @@ h2{
   margin-left: 5px;
   
   }
+
+#contacts{
+  
+  width: 600px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+
+
+#contacts .form-group{
+  width:500px;
+  margin-left: 10px;
+  
+}  
+
+
+h2{
+  font-family: "Alata", Arial, Helvetica, sans-serif;
+}
+
+label{
+  color: rgb(4, 4, 66);
+}
+
+button{
+  margin-left: 30px;
+  margin-top: 20px;
+  background: rgb(2, 8, 82);
+  color: white;
+  border-radius: 5px;
+}
