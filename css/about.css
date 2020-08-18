@@ -157,10 +157,18 @@ a:hover .dropdown{
   }
 
  #coreValues{
-   margin-top: 170px;
+   margin-top: 200px;
    padding: 10px;
-   margin-left: 40px;
+   margin-left: 70px;
+   border-radius:5px;
+   box-shadow: 0px 0px 16px #001060;
+   width: 300px;
+   
 
+ }
+
+ #coreValues img{
+  margin-left:-60px;
  }
 
  #coreValues h1{
@@ -168,10 +176,6 @@ a:hover .dropdown{
   font-family:"Bangers";
  }
 
- #coreValues h2{
-   font-family:"Alata";
-
- }
  #coreValues li{
   font-family:"Courgette", Arial, Helvetica, sans-serif;
   font-size: 1.1em;
