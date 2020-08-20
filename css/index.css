@@ -35,22 +35,6 @@
   text-decoration: none;
 }
 
-
-.dropdown{
-  visibility:hidden;
-  transition: all 0.5s ease;
-  display:none;
-  margin-left: 420px;
-  position:absolute;
-}
-.insurances{
-  position:relative;
-}
-a:hover .dropdown{
-  display: block;
-  visibility: visible;
-}
-
 #icons{
  
   margin-left: 122px;
@@ -70,11 +54,12 @@ a:hover .dropdown{
   font-family:"Courgette", Arial, Helvetica, sans-serif;
 }
 .text h1{
-  color: white;
+  color: rgb(243, 181, 9);
 }
 
 .text p{
   font-size: 1.2em;
+  color: rgb(1, 2, 2);
 }
 .intro{
   width:1260px;
@@ -112,6 +97,7 @@ h1{
   font-weight: bold;
 
 }
+
 
 
 .footer{
